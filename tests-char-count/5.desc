@@ -1,0 +1,13 @@
+run program with CLI input 
+
+./char_count z "hello"
+
+NOTE: Don't worry about the odd formatting in the tests.
+This is a byproduct of the automated tests not actually
+requiring input via the keyboard. Normally, the text we
+type would appear in termal. You can run the same command
+found in the .run files and you will see exactly what the
+testing program will receive as output.
+
+EXAMPLE OUTPUT:
+0

@@ -1,0 +1,3 @@
+Usage:
+Counting from standard input: ./char-count <character>
+Counting from the command line: ./char-count <character> <input string>

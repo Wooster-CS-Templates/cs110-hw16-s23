@@ -1,0 +1,15 @@
+run program with bad input 
+
+./char_count  how are you today
+
+NOTE: Don't worry about the odd formatting in the tests.
+This is a byproduct of the automated tests not actually
+requiring input via the keyboard. Normally, the text we
+type would appear in termal. You can run the same command
+found in the .run files and you will see exactly what the
+testing program will receive as output.
+
+EXAMPLE OUTPUT:
+Usage:
+Counting from standard input: ./char-count <character>
+Counting from the command line: ./char-count <character> <input string>
